@@ -1,0 +1,9 @@
+.panel-calculator{
+    width: 55vw;
+    height: 60vh;
+    background: linear-gradient(rgba(219, 185, 97, 0.77),rgba(227, 79, 202, 0.77)) ;
+    box-shadow: 4px 4px 4px  rgb(15, 10, 14, 0.41) inset;
+    margin: calc(55vw / 2) auto;
+    border-radius: 20px;
+    padding: 10px 10px 0 10px;
+}
